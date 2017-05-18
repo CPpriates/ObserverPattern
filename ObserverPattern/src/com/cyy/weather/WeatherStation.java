@@ -25,5 +25,8 @@ public class WeatherStation {
 		weatherData.setMeasurements(30, 65, 30.1f);
 		weatherData.setMeasurements(50, 85, 45.1f);
 		weatherData.setMeasurements(20, 35, 100.1f);
+		System.out.println("centos hello");
+		System.out.println("hello world!");
+		System.out.println("merge");
 	}
 }
