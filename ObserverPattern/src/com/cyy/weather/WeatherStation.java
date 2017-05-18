@@ -29,4 +29,8 @@ public class WeatherStation {
 		System.out.println("hello world!");
 		System.out.println("merge");
 	}
+	
+	public void test(){
+		
+	}
 }
